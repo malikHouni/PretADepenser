@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'PretADepenser'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FF4D6AFE63054B49B72155A9EFCAB4F0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7817F413B69C4BB381D4FA04A183FD41 }}
